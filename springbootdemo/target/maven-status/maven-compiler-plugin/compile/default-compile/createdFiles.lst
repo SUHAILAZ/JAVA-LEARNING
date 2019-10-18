@@ -1,3 +1,4 @@
-com\howtodoinjava\demo\model\Employee.class
 com\howtodoinjava\demo\controller\EmployeeController.class
+META-INF\MANIFEST.MF
 com\howtodoinjava\demo\SpringBootDemoApplication.class
+com\howtodoinjava\demo\model\Employee.class
