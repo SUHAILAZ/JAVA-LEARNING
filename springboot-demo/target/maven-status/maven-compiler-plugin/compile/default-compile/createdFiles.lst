@@ -1,0 +1,5 @@
+com\in28minutes\springboot\model\Course.class
+com\in28minutes\springboot\controller\StudentController.class
+com\in28minutes\springboot\StudentServicesApplication.class
+com\in28minutes\springboot\service\StudentService.class
+com\in28minutes\springboot\model\Student.class
